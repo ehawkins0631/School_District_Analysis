@@ -24,8 +24,6 @@ The school board has reviewed a previous study performed on the schools in the d
 
 ![image](https://user-images.githubusercontent.com/101227930/179962914-9d8806e3-0845-4e35-b58e-e624ae84539e.png)
 
-![image](https://user-images.githubusercontent.com/101227930/179963024-a4e408e2-ecc0-44b7-94cf-c6b3166f631f.png)
-
 ![image](https://user-images.githubusercontent.com/101227930/179963062-75ec081b-8f8f-4702-8549-19cfc24df675.png)
 
 ![image](https://user-images.githubusercontent.com/101227930/179963104-85c556d9-8cc5-42c7-a218-89d0313075d3.png)
