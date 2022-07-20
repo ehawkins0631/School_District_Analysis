@@ -10,8 +10,29 @@ The school board has reviewed a previous study performed on the schools in the d
 * The average reading score for each grade level from each school
 * The scores by school spending per student, by school size, and by school type
 
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20school%20distric%20summary.png
 
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20school%20distric%20summary%202.png
 
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/New%20School%20summary.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/New%20School%20summary%20-2.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20school%20size%20summary.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20school%20distric%20summary%202.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20spending%20summary.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20spending%20summary%20-%202.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20school%20by%20type.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20school%20by%20type%202.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20top%205%20schools.png
+
+https://github.com/ehawkins0631/School_District_Analysis/blob/main/Resources/new%20top%205%20schools%20-%202.png
 
 
 Resources
