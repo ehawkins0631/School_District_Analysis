@@ -43,8 +43,6 @@ Resources
 * Software: Python 3.7, Jupyter Notebooks
 
 
-
-
 email:  ehawkins0631@gmail.com
 
 twitter: @evahawkins0630
