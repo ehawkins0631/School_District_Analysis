@@ -15,6 +15,7 @@ The school board has reviewed a previous study performed on the schools in the d
 * The average math score for each grade level from each school
 * The average reading score for each grade level from each school
 * The scores by school spending per student, by school size, and by school type
+* 
 
 ![image](https://user-images.githubusercontent.com/101227930/179962591-d8a01283-34e7-46f9-b949-c1de1c1baf0b.png)
 
