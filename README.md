@@ -1,6 +1,8 @@
 School District Analysis
 
+
 Project Overview
+
 
 The school board has reviewed a previous study performed on the schools in the district. The results seem to suggest academic dishonesty in math and reading for Thomas High School ninth graders. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have requested the following analysis performed without data from the Thomas High School ninth grader’s math and reading results.
 
@@ -35,6 +37,7 @@ The school board has reviewed a previous study performed on the schools in the d
 ![image](https://user-images.githubusercontent.com/101227930/179963161-0054d746-f5c1-4df5-8db7-d1667391cfa4.png)
 
 ![image](https://user-images.githubusercontent.com/101227930/179963236-96c97a8a-1663-4581-8109-14bce988afc4.png)
+
 
 Resources
 
